@@ -82,7 +82,7 @@
 .navibox3{
 
     /* border: 2px solid black; */
-    background-image: url("/Assignment\ Contant/stethoscope.png");
+    background-image: url("stethoscope.png");
     background-repeat: no-repeat;
     background-size: cover;
     height: 459px;
@@ -91,7 +91,7 @@
 }
 .topAngleimage{
     /* border: 2px solid black; */
-    background-image: url("/Assignment\ Contant/topAngle.png");
+    background-image: url("topAngle.png");
     background-repeat: no-repeat;
     background-size: cover;
     height: 30px;
@@ -101,7 +101,7 @@
 }
 .bottomAngleimage{
     /* border: 2px solid black; */
-    background-image: url("/Assignment\ Contant/bottomAngle.png");
+    background-image: url("bottomAngle.png");
     background-repeat: no-repeat;
     background-size: cover;
     height: 30px;
@@ -186,7 +186,7 @@
 }
 .navibox4{
     /* border: 2px solid black; */
-    background-image: url("/Assignment\ Contant/greenBox.png");
+    background-image: url("greenBox.png");
     background-repeat: no-repeat;
     background-size: cover;
     height: 402px;
@@ -196,7 +196,7 @@
 }
 .yellowBox{
     /* border: 2px solid black; */
-    background-image: url("/Assignment\ Contant/yellowBox.png");
+    background-image: url("yellowBox.png");
     background-repeat: no-repeat;
     background-size: cover;
     height: 200px;
